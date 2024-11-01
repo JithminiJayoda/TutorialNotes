@@ -11,5 +11,7 @@ Google Data Analytics Professional Certificate(Reading) :
   Analyze Data to Answer Questions (Completed): https://jithminijayoda.github.io/TutorialNotes/Google%20Data%20Analytics/Analyze%20Data%20to%20Answer%20Questions/AnalyzeDatatoAnswerQuestions.html#id.n4ynn32tw8jb
   
   Share Data Through the Art of Visualization (Reading)
+  
   Data Analysis with R Programming
+  
   Google Data Analytics Capstone: Complete a Case Study
