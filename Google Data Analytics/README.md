@@ -1,4 +1,5 @@
 Google Data Analytics Professional Certificate(Reading) :
+
   Foundations: Data, Data, Everywhere (Completed): https://jithminijayoda.github.io/TutorialNotes/Google%20Data%20Analytics/Foundations:%20Data,%20Data,%20Everywhere/FoundationsDataDataEverywhere.html
   
   Ask Questions to Make Data-Driven Decisions (Completed): https://jithminijayoda.github.io/TutorialNotes/Google%20Data%20Analytics/Ask%20Questions%20to%20Make%20Data-Driven%20Decisions/AskQuestionstoMakeDataDrivenDecisions.html
