@@ -13,6 +13,8 @@ Google Data Analytics Professional Certificate(Reading) :
   Share Data Through the Art of Visualization (Completed):
 https://jithminijayoda.github.io/TutorialNotes/Google%20Data%20Analytics/Share%20Data%20Through%20the%20Art%20of%20Visualization/ShareDataThroughtheArtofVisualization.html#h.slf26gr4fvb
   
-  Data Analysis with R Programming(Reading):
+  Data Analysis with R Programming (Completed):
+https://jithminijayoda.github.io/TutorialNotes/Google%20Data%20Analytics/Data%20Analysis%20with%20R%20Programming/DataAnalysiswithRProgramming.html
+
+  Google Data Analytics Capstone: Complete a Case Study (Completed):
   
-  Google Data Analytics Capstone: Complete a Case Study
