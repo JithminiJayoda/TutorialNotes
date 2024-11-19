@@ -1,4 +1,4 @@
-Google Data Analytics Professional Certificate(Reading) :
+Google Data Analytics Professional Certificate (Completed):
 
   Foundations: Data, Data, Everywhere (Completed): https://jithminijayoda.github.io/TutorialNotes/Google%20Data%20Analytics/Foundations:%20Data,%20Data,%20Everywhere/FoundationsDataDataEverywhere.html
   
@@ -17,4 +17,4 @@ https://jithminijayoda.github.io/TutorialNotes/Google%20Data%20Analytics/Share%2
 https://jithminijayoda.github.io/TutorialNotes/Google%20Data%20Analytics/Data%20Analysis%20with%20R%20Programming/DataAnalysiswithRProgramming.html
 
   Google Data Analytics Capstone: Complete a Case Study (Completed):
-  
+https://jithminijayoda.github.io/TutorialNotes/Google%20Data%20Analytics/Google%20Data%20Analytics%20Capstone:%20Complete%20a%20Case%20Study/GoogleDataAnalyticsCapstoneCompleteaCaseStudy.html
